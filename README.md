@@ -1,17 +1,25 @@
 ### Hi there 👋
 
-# Nathan Zaffke<br/>
-## ekffaz@hotmail.com<br/>
-### I'm currently a student at new horizen academey 
+## Nathan Zaffke<br/>
+*ekffaz@hotmail.com*<br/> 
+763-913-2677
 
--Java
--Javascript
--HTML
--CSS
+- Java
+- Javascript
+- HTML
+- CSS
 - [C#](https://github.com/nzaffke/FinalProject)
--Python
+- Python
+- MYSQL
 
+skills      | goles
+------------|--------------
+Hard Worker | to find a Job
+### Work History:
 
+#### Amazon Fulfillment Center
+
+#### U.S. Navy Hull Teck
 
 
 
