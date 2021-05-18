@@ -6,7 +6,7 @@
 
 - Java
 - Javascript
-- HTML
+- [HTML](https://github.com/nzaffke/JSConsoleExercise/blob/master/consoleExercise.html)
 - CSS
 - [C#](https://github.com/nzaffke/FinalProject)
 - Python
