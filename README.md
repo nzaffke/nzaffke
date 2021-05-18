@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-**Nathan Zaffke**<br/>
-*ekffaz@hotmail.com*<br/>
-763-913-2677
+# Nathan Zaffke<br/>
+## ekffaz@hotmail.com<br/>
+### I'm currently a student at new horizen academey 
 
 -Java
 -Javascript
@@ -11,5 +11,8 @@
 - [C#](https://github.com/nzaffke/FinalProject)
 -Python
 
-[website]:
-https://www.linkedin.com/feed/
+
+
+
+
+[website] https://www.linkedin.com/feed
