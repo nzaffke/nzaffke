@@ -15,11 +15,15 @@
 skills      | goles
 ------------|--------------
 Hard Worker | to find a Job
+
 ### Work History:
 
 #### Amazon Fulfillment Center
+##### Job Description
 
-#### U.S. Navy Hull Teck
+#### U.S. Hull Maintenance Technician
+##### Job Description
+
 
 
 
