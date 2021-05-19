@@ -1,4 +1,5 @@
 ### Hi there 👋
+<hr/>
 
 ## Nathan Zaffke<br/>
 *ekffaz@hotmail.com*<br/> 
@@ -20,11 +21,12 @@ Hard Worker | to find a Job
 
 #### Amazon Fulfillment Center
 ##### Job Description
+> my job was to sort out and pack out the orders for Amazon.com
 
 #### U.S. Hull Maintenance Technician
 ##### Job Description
+> I was responsible for maintaining the and reparing the piping and ventilation for the ship.
 
 
 
-
-[website] https://www.linkedin.com/feed
+[website]: https://www.linkedin.com/feed
