@@ -13,9 +13,9 @@
 - Python
 - MYSQL
 
-skills      | goles
+skills      | goals
 ------------|--------------
-Hard Worker | to find a Job
+Hard Worker | to be proficient at the job given
 
 ### Work History:
 
@@ -25,7 +25,7 @@ Hard Worker | to find a Job
 
 #### U.S. Hull Maintenance Technician
 ##### Job Description
-> I was responsible for maintaining the and reparing the piping and ventilation for the ship.
+> I was responsible for maintaining and reparing the piping and ventilation for the ship.
 
 
 
